@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm a Frontend Engineer & Creative Developer 🚀
 
-<!--
-**rizoshomatov/rizoshomatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Commercial developer with 6 years of experience. I specialize in the intersection of scalable frontend architecture and real-time computer graphics.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+- **Languages:** TypeScript, JavaScript (ES6+), GLSL
+- **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
+- **Graphics & GameDev:** PixiJS, Three.js, WebGL, Canvas API
+- **Motion:** Adobe After Effects, Lottie, Rive, SVG Animation
+- **Tooling:** Vite, Webpack, Vitest/Jest, GitHub Actions (CI/CD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Technical Focus
+- **Performance:** High-density asset management (32-bit PNG/Retina) and rendering pipeline optimization for stable 60 FPS.
+- **Architecture:** Building modular, type-safe, and scalable frontend systems.
+- **Implementation:** Translating complex motion design into performant code without fidelity loss.
+
+---
+📫 📫 **How to reach me:** [Email](rizoshommatov2003@gmail.com) | [Telegram](https://t.me/haze_mr) | [Twitter](https://x.com/1_rizo51823)
+
