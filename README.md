@@ -1,6 +1,6 @@
 # Hi there! I'm a Frontend Engineer & Creative Developer 🚀
 
-Commercial developer with 5 years of experience. I specialize in the intersection of scalable frontend architecture and real-time computer graphics.
+Commercial developer with 3 years of experience. I specialize in the intersection of scalable frontend architecture and real-time computer graphics.
 
 ### 🛠 Tech Stack & Tools
 - **Languages:** TypeScript, JavaScript (ES6+), GLSL
