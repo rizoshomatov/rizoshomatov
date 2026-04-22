@@ -6,7 +6,7 @@ Commercial developer with 3 years of experience. I specialize in the intersectio
 - **Languages:** TypeScript, JavaScript (ES6+), GLSL
 - **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
 - **Graphics & GameDev:** PixiJS, Three.js, WebGL, Canvas API
-- **Motion:** Adobe After Effects, Lottie, Rive, SVG Animation
+- **Motion:** Adobe After Effects, Blender, Lottie, Rive, SVG Animation
 - **Tooling:** Vite, Webpack, Vitest/Jest, GitHub Actions (CI/CD)
 
 ### 📈 Technical Focus
