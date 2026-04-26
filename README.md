@@ -1,4 +1,4 @@
-# Hi there! I'm a Frontend Engineer & Creative Developer 🚀
+# Hi there! I'm a Frontend Engineer & Creative Developer 
 
 Commercial developer with 3 years of experience. I specialize in the intersection of scalable frontend architecture and real-time computer graphics.
 
