@@ -2,14 +2,14 @@
 
 Commercial developer with 3 years of experience. I specialize in the intersection of scalable frontend architecture and real-time computer graphics.
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 - **Languages:** TypeScript, JavaScript (ES6+), GLSL
 - **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
 - **Graphics & GameDev:** PixiJS, Three.js, WebGL, Canvas API
 - **Motion:** Adobe After Effects, Blender, Lottie, Rive, SVG Animation
 - **Tooling:** Vite, Webpack, Vitest/Jest, GitHub Actions (CI/CD)
 
-### 📈 Technical Focus
+###  Technical Focus
 - **Performance:** High-density asset management (32-bit PNG/Retina) and rendering pipeline optimization for stable 60 FPS.
 - **Architecture:** Building modular, type-safe, and scalable frontend systems.
 - **Implementation:** Translating complex motion design into performant code without fidelity loss.
